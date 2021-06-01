@@ -5,33 +5,29 @@
       "UserId": "71a77574-80ef-49fa-9522-731c2b0cf181",
       "Email": "amir@test.com",
       "Name": "amir",
-      "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg",
+      "ProfileImage": "/assets/EmployeeImages/gardify_Markus_Philippen_x.png",
       "messages": [
         {
           "$id": "4",
           "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
           "text": "test message",
-          "PublishDate": "2021-05-30T16:30:25.713",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
+          "PublishDate": "2021-05-30T16:30:25.713"
         },
         {
           "$id": "4",
-          "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
+          "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
           "text": "test message 2",
-          "PublishDate": "2021-05-30T16:30:25.713",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
+          "PublishDate": "2021-05-30T16:30:25.713"
         }
       ],
       "contacts": [
         {
           "$id": "4",
-          "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
+          "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140"
         },
         {
           "$id": "5",
-          "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
+          "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141"
         }
       ]
     }
@@ -40,25 +36,26 @@
     {
       "$id": "1",
       "UserId": "71a77574-80ef-49fa-9522-731c2b0cf181",
-      "Email": "johnDoe@test.com",
-      "Name": "John Doe",
-      "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg",
-      "messages": [
+      "Email": "amir@test.com",
+      "Name": "amir",
+      "ProfileImage": "/assets/EmployeeImages/gardify_Markus_Philippen_x.png",
+      "contacts": [
         {
           "$id": "4",
-          "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-          "text": "test message",
-          "PublishDate": "2021-05-30T16:30:25.713",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
+          "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140"
         },
         {
-          "$id": "4",
-          "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-          "text": "test message 2",
-          "PublishDate": "2021-05-30T16:30:25.713",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
+          "$id": "5",
+          "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141"
         }
-      ],
+      ]
+    },
+    {
+      "$id": "1",
+      "UserId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
+      "Email": "johnDoe@test.com",
+      "Name": "User 1",
+      "ProfileImage": "/assets/EmployeeImages/gardify_Melanie_Bayo_x.png",
       "contacts": [
         {
           "$id": "4",
@@ -74,26 +71,10 @@
     },
     {
       "$id": "1",
-      "UserId": "71a77574-80ef-49fa-9522-731c2b0cf181",
+      "UserId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
       "Email": "jannydoe@test.com",
-      "Name": "Janny Doe",
-      "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg",
-      "messages": [
-        {
-          "$id": "4",
-          "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-          "text": "test message",
-          "PublishDate": "2021-05-30T16:30:25.713",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
-        },
-        {
-          "$id": "4",
-          "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-          "text": "test message 2",
-          "PublishDate": "2021-05-30T16:30:25.713",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
-        }
-      ],
+      "Name": "User 2",
+      "ProfileImage": "/assets/EmployeeImages/gardify_Therese_Liouville_x.png",
       "contacts": [
         {
           "$id": "4",
