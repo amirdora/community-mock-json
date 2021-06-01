@@ -142,6 +142,22 @@
           "Name": "User 2",
           "PublishDate": "2021-05-30T16:30:25.713",
           "ProfileImage": "/assets/EmployeeImages/gardify_Melanie_Bayo_x.png"
+        },
+                {
+          "$id": "4",
+          "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
+          "text": "test comment -- 3",
+          "Name": "User 1",
+          "PublishDate": "2021-05-30T16:30:25.713",
+          "ProfileImage": "/assets/EmployeeImages/gardify_Therese_Liouville_x.png"
+        },
+        {
+          "$id": "5",
+          "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
+          "text": "test comment -- 4",
+          "Name": "User 2",
+          "PublishDate": "2021-05-30T16:30:25.713",
+          "ProfileImage": "/assets/EmployeeImages/gardify_Melanie_Bayo_x.png"
         }
       ]
     }
