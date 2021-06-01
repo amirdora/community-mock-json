@@ -11,13 +11,14 @@
           "$id": "4",
           "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
           "text": "test message",
-          "PublishDate": "2021-05-30T16:30:25.713"
+          "PublishDate": "2021-03-02T00:00:00+01:00"
         },
         {
           "$id": "5",
           "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
           "text": "test message 2",
-          "PublishDate": "2021-05-30T16:30:25.713"
+          "Publish
+          ": "2021-05-30T16:30:25.713"
         }
       ],
       "contacts": [
@@ -97,21 +98,21 @@
       "Description": "post description ",
       "AskExpert": "false",
       "UserName": "User 2",
-      "PublishDate": "2021-05-30T16:30:25.713",
+      "PublishDate": "2021-03-02T00:00:00+01:00",
       "SrcAttr": "/intern/nfiles/ArticleImages/istock1148868895_72dpi.jpg",
       "comments": [
         {
           "$id": "4",
           "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
           "text": "test comment 1",
-          "PublishDate": "2021-05-30T16:30:25.713",
+          "PublishDate": "2021-03-02T00:00:00+01:00",
           "ProfileImage": "/assets/EmployeeImages/gardify_Therese_Liouville_x.png"
         },
         {
           "$id": "5",
           "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
           "text": "test comment 2",
-          "PublishDate": "2021-05-30T16:30:25.713",
+          "PublishDate": "2021-03-02T00:00:00+01:00",
           "ProfileImage": "/assets/EmployeeImages/gardify_Melanie_Bayo_x.png"
         }
       ]
@@ -123,7 +124,7 @@
       "Description": "post description test",
       "AskExpert": "false",
       "UserName": "Markus",
-      "PublishDate": "2021-05-31T16:30:25.713",
+      "PublishDate": "2021-03-02T00:00:00+01:00",
       "SrcAttr": "/intern/nfiles/ArticleImages/dsc_83845641f905dc3e4_v2.jpg",
       "ProfileImage": "/assets/EmployeeImages/gardify_Markus_Philippen_x.png",
       "comments": [
@@ -132,7 +133,7 @@
           "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
           "text": "test comment -- 1",
           "Name": "User 1",
-          "PublishDate": "2021-05-30T16:30:25.713",
+          "PublishDate": "2021-03-02T00:00:00+01:00",
           "ProfileImage": "/assets/EmployeeImages/gardify_Therese_Liouville_x.png"
         },
         {
@@ -140,7 +141,7 @@
           "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
           "text": "test comment -- 2",
           "Name": "User 2",
-          "PublishDate": "2021-05-30T16:30:25.713",
+          "PublishDate": "2021-03-02T00:00:00+01:00",
           "ProfileImage": "/assets/EmployeeImages/gardify_Melanie_Bayo_x.png"
         },
                 {
@@ -148,7 +149,7 @@
           "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
           "text": "test comment -- 3",
           "Name": "User 1",
-          "PublishDate": "2021-05-30T16:30:25.713",
+          "PublishDate": "2021-03-02T00:00:00+01:00",
           "ProfileImage": "/assets/EmployeeImages/gardify_Therese_Liouville_x.png"
         },
         {
@@ -156,7 +157,7 @@
           "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
           "text": "test comment -- 4",
           "Name": "User 2",
-          "PublishDate": "2021-05-30T16:30:25.713",
+          "PublishDate": "2021-03-02T00:00:00+01:00",
           "ProfileImage": "/assets/EmployeeImages/gardify_Melanie_Bayo_x.png"
         }
       ]
