@@ -1,0 +1,9 @@
+{
+"$id": "1",
+"ExpiresUtc": "2021-08-30T10:36:59.8365033+02:00",
+"UserId": "71a77574-80ef-49fa-9522-731c2b0cf181",
+"Email": "amir@test.com",
+"Name": "amir",
+"Admin": false,
+"PLZ": 33100
+}
