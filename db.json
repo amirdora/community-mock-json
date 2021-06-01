@@ -93,25 +93,46 @@
     {
       "$id": "4",
       "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-      "Headline": "Headline",
-      "Description": "",
+      "Headline": "post Headline",
+      "Description": "post description ",
       "AskExpert": "false",
       "PublishDate": "2021-05-30T16:30:25.713",
-      "SrcAttr": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg",
+      "SrcAttr": "/intern/nfiles/ArticleImages/istock1148868895_72dpi.jpg",
       "comments": [
         {
           "$id": "4",
           "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
           "text": "test comment 1",
-          "PublishDate": "2021-05-30T16:30:25.713",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
+          "PublishDate": "2021-05-30T16:30:25.713"
+        },
+        {
+          "$id": "4",
+          "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
+          "text": "test comment 2",
+          "PublishDate": "2021-05-30T16:30:25.713"
+        }
+      ]
+    },
+    {
+      "$id": "5",
+      "AuthorId": "71a77574-80ef-49fa-9522-731c2b0cf181",
+      "Headline": "Testing post",
+      "Description": "post description test",
+      "AskExpert": "false",
+      "PublishDate": "2021-05-31T16:30:25.713",
+      "SrcAttr": "/intern/nfiles/ArticleImages/dsc_83845641f905dc3e4_v2.jpg",
+      "comments": [
+        {
+          "$id": "4",
+          "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
+          "text": "test comment -- 1",
+          "PublishDate": "2021-05-30T16:30:25.713"
         },
         {
           "$id": "4",
           "AuthorId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-          "text": "test comment 2",
-          "PublishDate": "2021-05-30T16:30:25.713",
-          "ProfileImage": "https://gardifybackend.sslbeta.de//Images/gardify_Pflanzenbild_Platzhalter.svg"
+          "text": "test comment -- 2",
+          "PublishDate": "2021-05-30T16:30:25.713"
         }
       ]
     }
