@@ -2,6 +2,7 @@
   "User": {
     "$id": "1",
     "UserId": "71a77574-80ef-49fa-9522-731c2b0cf181",
+    "RegistrationDate": "2021-03-02T00:00:00+01:00",
     "Email": "Markus@test.com",
     "Name": "Markus",
     "ProfileImage": "/assets/EmployeeImages/gardify_Markus_Philippen_x.png",
