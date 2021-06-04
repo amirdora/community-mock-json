@@ -1,37 +1,35 @@
 {
-  "User": [
-    {
-      "$id": "1",
-      "UserId": "71a77574-80ef-49fa-9522-731c2b0cf181",
-      "Email": "Markus@test.com",
-      "Name": "Markus",
-      "ProfileImage": "/assets/EmployeeImages/gardify_Markus_Philippen_x.png",
-      "messages": [
-        {
-          "$id": "4",
-          "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
-          "text": "test message",
-          "PublishDate": "2021-03-02T00:00:00+01:00"
-        },
-        {
-          "$id": "5",
-          "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
-          "text": "test message 2",
-          "PublishDate": "2021-03-02T00:00:00+01:00"
-        }
-      ],
-      "contacts": [
-        {
-          "$id": "4",
-          "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140"
-        },
-        {
-          "$id": "5",
-          "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141"
-        }
-      ]
-    }
-  ],
+  "User": {
+    "$id": "1",
+    "UserId": "71a77574-80ef-49fa-9522-731c2b0cf181",
+    "Email": "Markus@test.com",
+    "Name": "Markus",
+    "ProfileImage": "/assets/EmployeeImages/gardify_Markus_Philippen_x.png",
+    "messages": [
+      {
+        "$id": "4",
+        "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140",
+        "text": "test message",
+        "PublishDate": "2021-03-02T00:00:00+01:00"
+      },
+      {
+        "$id": "5",
+        "SenderId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141",
+        "text": "test message 2",
+        "PublishDate": "2021-03-02T00:00:00+01:00"
+      }
+    ],
+    "contacts": [
+      {
+        "$id": "4",
+        "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b140"
+      },
+      {
+        "$id": "5",
+        "ContactId": "f50ba3c7-a3ed-40c3-b260-d7a65cb0b141"
+      }
+    ]
+  },
   "AllUsers": [
     {
       "$id": "1",
